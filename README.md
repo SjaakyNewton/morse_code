@@ -1,8 +1,8 @@
-# morse_code
-Making a code to play morse code
+# Morse code (code)
+Making a code to play morse code. Very basic code.
 
 
-## Why
+## Why?
 Other students where working with a beeper it was irritating. So I made sweet sweet revenge. Enjoy how ever you want to use it.
 
 
